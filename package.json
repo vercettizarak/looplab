@@ -1,0 +1,16 @@
+{
+  "name": "looplab-bootstrap-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "http://vercettizarak.github.io/looplab-BS-theme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
